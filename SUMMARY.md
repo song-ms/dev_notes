@@ -10,4 +10,5 @@
       * [05 : S3](DevelopmentNote/about-cloud/aws-certification/aws-certified-cloud-practitioner/05-s3.md)
       * [04 : EC2](DevelopmentNote/about-cloud/aws-certification/aws-certified-cloud-practitioner/04-ec2.md)
       * [03 : IAM](DevelopmentNote/about-cloud/aws-certification/aws-certified-cloud-practitioner/03-iam.md)
-* [The Personal](DevelopmentNote/the-personal.md)
+* [The Personal](DevelopmentNote/the-personal/README.md)
+  * [01:](DevelopmentNote/the-personal/01.md)
